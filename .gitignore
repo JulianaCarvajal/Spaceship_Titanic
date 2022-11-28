@@ -1,0 +1,4 @@
+*.csv
+*.orig
+*.zip
+.gitmessage.txt

@@ -15,6 +15,8 @@
 - [sklearn.preprocessing.StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html#sklearn.preprocessing.StandardScaler)
 - [Preprocessing sklearn module: 6.3.4. Encoding categorical features](https://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features)
 - [sklearn.preprocessing.OneHotEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html#sklearn.preprocessing.OneHotEncoder)
+- [6.9. Transforming the prediction target (y): to use LabelEncoder on categorical col 'Cabin'](https://scikit-learn.org/stable/modules/preprocessing_targets.html#preprocessing-targets)
+- [sklearn.preprocessing.LabelEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html#sklearn.preprocessing.LabelEncoder)
 #### Missing values imputation
 - [6.4. Imputation of missing values](https://scikit-learn.org/stable/modules/impute.html#impute)
 - [Imputing missing values before building an estimator](https://scikit-learn.org/stable/auto_examples/impute/plot_missing_values.html#sphx-glr-auto-examples-impute-plot-missing-values-py)

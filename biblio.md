@@ -1,6 +1,8 @@
 # LINKS OF INTEREST
 ## Misc
 - [Welcome to Machine Learning Mastery](https://machinelearningmastery.com/)
+- [You can pip install directly from GitHub](https://www.youtube.com/watch?v=r-wwMk5faXo&ab_channel=mCoding)
+- [How to Install Python Packages from Github](https://www.youtube.com/watch?v=c6IgzwFRf5I&ab_channel=PrettyPrinted)
 ### ScikitLearn documentación
 - [To find the most important vairables (cols, features, etc): 4.2. Permutation feature importance](https://scikit-learn.org/stable/modules/permutation_importance.html)
 - [To select variables in function of their importance: 1.13. Feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)

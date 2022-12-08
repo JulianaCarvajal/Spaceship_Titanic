@@ -7,12 +7,13 @@ class experimentalIterator: # class construction
     from sklearn.ensemble import RandomForestClassifier #import RandomForest
     import seaborn as sns #visualization
     import matplotlib.pyplot as plt
-    %matplotlib inline
+    
 
     def __init__(self, X, y):
         self._X = self.dtypeConvertion( X )#store as attribute X data of dataset
         self._y = self.dtypeConvertion( y )#same as above but y
-        pass
+        self._X = self.dtypeConvertion( X )#for now, same as self._X
+        self._y = self.dtypeConvertion( y )#same as above
     
     def dtypeConvertion(self, df): #convert dtypes to best fit #previous to BustamJos3 preprocess
         return df.convert_dtypes(infer_objects=True)

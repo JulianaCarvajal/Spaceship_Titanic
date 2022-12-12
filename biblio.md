@@ -33,5 +33,6 @@
 ## Raw theory of selected models
 ### Supervised
 - [Random Forest (Bosque Aleatorio) para Clasificación con Scikit-Learn y Python - Machine Learning](https://youtu.be/yOCJQLf_YFI)
+- [How to Grid Search Hyperparameters for Deep Learning Models in Python with Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
 ## DATASET
 - **Include link to kaggle dataset**
